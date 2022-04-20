@@ -1,7 +1,5 @@
 -# sobre mim
--  👋 Hi, I’m @olivianax
--   :+1: meu email de contato é olivia.santos@escola.gov.pr.br
+-  👋 oi, eu sou @olivianax
+-  📫: meu email de contato é olivia.santos@escola.gov.pr.br
 - 👀 eu estou interessada em aprender a programar novas linguagens
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 eu estou aprendendo atualmente a programar jogos no scratch e em javascript
